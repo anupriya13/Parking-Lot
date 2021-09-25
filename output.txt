@@ -1,0 +1,17 @@
+Created parking of 13 slots
+Car with vehicle registration number "KA-01-HH-1234" has been parked at slot number 1
+Car with vehicle registration number "PB-01-HH-1234" has been parked at slot number 2
+Car with vehicle registration number "KX-01-HH-1234" has been parked at slot number 3
+Car with vehicle registration number "PX-01-HH-1234" has been parked at slot number 4
+Car with vehicle registration number "PA-01-HH-1234" has been parked at slot number 5
+Car with vehicle registration number "KB-01-HH-1234" has been parked at slot number 6
+Car with vehicle registration number "LA-01-HH-1234" has been parked at slot number 7
+Car with vehicle registration number "MB-01-HH-1234" has been parked at slot number 8
+1,2,3,4,6
+Slot number 2 vacated, the car with vehicle registration number "PB-01-HH-1234" left the space, the driver of the car was of age 21
+Slot number 1 vacated, the car with vehicle registration number "KA-01-HH-1234" left the space, the driver of the car was of age 21
+3,4,6
+Car with vehicle registration number "PB-01-TG-2341" has been parked at slot number 1
+7
+Car with vehicle registration number "HR-29-TG-3098" has been parked at slot number 2
+HR-29-TG-3098, KB-01-HH-1234, KX-01-HH-1234, PX-01-HH-1234
